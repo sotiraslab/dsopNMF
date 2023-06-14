@@ -1,5 +1,7 @@
 """
 code snippet to initialize the component W with, including NNDSVD method.
+
+code snippet is copied from https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/decomposition/_nmf.py
 """
 import scipy
 import pprint
