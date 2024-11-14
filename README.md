@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/87487488-482a-4605-baf6-54e1629578a7)
+
 # [Scalable Orthonormal Projective NMF via Diversified Stochastic Optimization](https://doi.org/10.1007/978-3-031-34048-2_38)
 
 ## Introduction
